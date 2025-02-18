@@ -1,12 +1,6 @@
-isim = input()
-print("Merhaba "+ isim)
+x=5
+y=4
 
-a=24
-def f():
-    print(a)
-f()
-def g():
-    global a
-    a=9
-    print(a)
-g()
+c=x*y
+print(c)
+
